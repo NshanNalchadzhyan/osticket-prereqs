@@ -4,7 +4,7 @@
 
 <h1>osTicket - Prerequisites and Installation</h1>
 
-In this lab, I set up osTicket from scratch using the required installation files. Before installing the ticketing system, there are a few necessary steps to follow. This lab is conducted on a Windows 10 Pro Virtual Machine created on the Azure platform. The necessary installation files that are referenced and used are located. <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">here!</a><br />
+In this lab, I set up osTicket from scratch using the required installation files. Before installing the ticketing system, there are a few necessary steps to follow. This lab is conducted on a Windows 10 Pro Virtual Machine created on the Azure platform. The necessary installation files that are referenced and used are located <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">here!</a><br />
 
 
 <h2>Environments and Technologies Used</h2>
